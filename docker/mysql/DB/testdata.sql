@@ -1,8 +1,7 @@
 INSERT INTO department VALUES
 (1, '経理部'),
 (2, '営業部'),
-(3, '開発部'),
-(4, '総務部');
+(3, '開発部');
 
 INSERT INTO position VALUES
 (1, '所属長'),
@@ -43,5 +42,4 @@ INSERT INTO worker_department VALUES
 (13, 2),
 (14, 1),
 (14, 3),
-(15, 3),
-(1, 1);
+(15, 3);
