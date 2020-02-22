@@ -19,7 +19,7 @@ passwordは`root`。
 
 ## 02/18時点での実装内容
 現状、サンプルで社員管理のDBが入ってる。  
-DB名は`db`。  
+DB名は`sample_db`。  
 DBの内容を変えたい時は下記のファイルを編集する。
 
 - docker/mysql/DB/main_db.sql  
